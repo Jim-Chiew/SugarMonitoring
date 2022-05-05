@@ -2,7 +2,7 @@
 A website to monitor your sugar intake after meals.
 
 ## Background:
-As part of my Web Applications Development in PHP module, we were tasked to create a website that tracks sugar intakes. The provided template files and instructions for my assessments are provided [here](/C203_skill_test_material).  
+As part of my Web Applications Development in PHP module, we were tasked to create a website that tracks sugar intakes. The provided template files for my assessments are provided [here](/C203_skill_test_material).  
 
 I hosted the website and database locally using XAMPP. XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The database setup is provided [here](/C203_skill_test_material/C203_SkillTestSQL.sql).  
 
